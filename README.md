@@ -28,7 +28,7 @@
 
   ## Links
 
-  Github repo: https://github.com/Alexfit4/Project_Management_App 
+  Github repo: https://github.com/mengyue-z/Project_Management_App 
 
   Deployed application: https://fast-everglades-95030.herokuapp.com/ 
 
