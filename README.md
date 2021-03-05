@@ -49,9 +49,11 @@
   
   This is an app for admin only as of now so there's no signup function.
   
+  ```
   Please use the following username and password to login:\
   username: mengyue@gmail.com\
   password: 1234
+  ```
 
   ## Contributing
 
